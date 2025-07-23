@@ -23,13 +23,13 @@ repository               : "qmtwang/qmtwang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "王涛"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Asso. Prof."
   location         : "Earth"
-  employer         : "合肥工业大学（Hefei University of Technology）"
+  employer         : "合肥工业大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wt@hfut.edu.cn"
 
   # Academic websites
   academia         : # URL
